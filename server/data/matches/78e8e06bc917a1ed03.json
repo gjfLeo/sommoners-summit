@@ -1,0 +1,27 @@
+{
+  "id": "78e8e06bc917a1ed03",
+  "tournamentId": "78e8e06bc917a1ed",
+  "stageIndex": 0,
+  "partIndex": 1,
+  "matchIndex": 0,
+  "gameVersion": "5.1",
+  "playerA": {
+    "playerId": "65c825b303b6f933",
+    "nickname": "裸兽汁外卫贱严"
+  },
+  "playerB": {
+    "playerId": "fd85ad2d87537e23",
+    "nickname": "巫喵"
+  },
+  "bans": [
+    {
+      "banType": "team",
+      "playerATeamId": "1311-1404-2304",
+      "playerBTeamId": "1404-2303-2304"
+    }
+  ],
+  "gameIds": [
+    "78e8e06bc917a1ed0301",
+    "78e8e06bc917a1ed0302"
+  ]
+}
