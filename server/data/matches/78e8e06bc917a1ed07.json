@@ -1,0 +1,36 @@
+{
+  "id": "78e8e06bc917a1ed07",
+  "tournamentId": "78e8e06bc917a1ed",
+  "stageIndex": 2,
+  "partIndex": 0,
+  "matchIndex": 0,
+  "gameVersion": "5.1",
+  "isFinal": true,
+  "playerA": {
+    "playerId": "0fab3cd90d17c667",
+    "nickname": "天命主教德丽莎"
+  },
+  "playerB": {
+    "playerId": "3819992cb8b26213",
+    "nickname": "李相夷"
+  },
+  "bans": [
+    {
+      "banType": "character",
+      "playerACardId": "1411",
+      "playerBCardId": "1411"
+    },
+    {
+      "banType": "team",
+      "playerATeamId": "1311-1404-2304",
+      "playerBTeamId": "2102-2103-2402"
+    }
+  ],
+  "gameIds": [
+    "78e8e06bc917a1ed0701",
+    "78e8e06bc917a1ed0702",
+    "78e8e06bc917a1ed0703",
+    "78e8e06bc917a1ed0704",
+    "78e8e06bc917a1ed0705"
+  ]
+}

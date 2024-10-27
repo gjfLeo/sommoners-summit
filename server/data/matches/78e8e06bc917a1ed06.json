@@ -1,0 +1,27 @@
+{
+  "id": "78e8e06bc917a1ed06",
+  "tournamentId": "78e8e06bc917a1ed",
+  "stageIndex": 1,
+  "partIndex": 0,
+  "matchIndex": 1,
+  "gameVersion": "5.1",
+  "playerA": {
+    "playerId": "0fab3cd90d17c667",
+    "nickname": "天命主教德丽莎"
+  },
+  "playerB": {
+    "playerId": "f365f7155f2fd333",
+    "nickname": "tomorin"
+  },
+  "bans": [
+    {
+      "banType": "team",
+      "playerATeamId": "1303-2402-2602",
+      "playerBTeamId": "1303-2203-2602"
+    }
+  ],
+  "gameIds": [
+    "78e8e06bc917a1ed0601",
+    "78e8e06bc917a1ed0602"
+  ]
+}
