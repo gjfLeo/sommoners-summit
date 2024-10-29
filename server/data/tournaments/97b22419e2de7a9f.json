@@ -1,7 +1,7 @@
 {
-  "id": "a8923fd008b1eb0c",
+  "id": "97b22419e2de7a9f",
   "name": {
-    "zh": "火星杯"
+    "zh": "「逐辉星聚」月话杯"
   },
   "gameVersion": "5.1",
   "region": "CN",
@@ -15,7 +15,10 @@
         "numGames": 5,
         "mode": "conquest",
         "submitTeams": {
-          "num": 3
+          "num": 3,
+          "submitDecks": {
+            "maxNumInTotal": 9
+          }
         }
       },
       "parts": [
@@ -23,8 +26,8 @@
           "name": {},
           "date": "2024-10-28",
           "matchIds": [
-            "a8923fd008b1eb0c01",
-            "a8923fd008b1eb0c02"
+            "97b22419e2de7a9f01",
+            "97b22419e2de7a9f02"
           ]
         }
       ]

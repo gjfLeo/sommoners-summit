@@ -1,0 +1,22 @@
+{
+  "id": "97b22419e2de7a9f01",
+  "tournamentId": "97b22419e2de7a9f",
+  "stageIndex": 0,
+  "partIndex": 0,
+  "matchIndex": 0,
+  "gameVersion": "5.1",
+  "playerA": {
+    "playerId": "bd6ea69b8dde8bff",
+    "nickname": "Dr.666"
+  },
+  "playerB": {
+    "playerId": "66bd8d10b3e04402",
+    "nickname": "忘归草"
+  },
+  "gameIds": [
+    "97b22419e2de7a9f0101",
+    "97b22419e2de7a9f0102",
+    "97b22419e2de7a9f0103"
+  ],
+  "video": "https://www.bilibili.com/video/BV1Y517Y4EfN"
+}
