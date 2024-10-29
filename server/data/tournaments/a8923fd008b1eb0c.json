@@ -6,5 +6,27 @@
   "gameVersion": "5.1",
   "region": "CN",
   "type": "积分赛",
-  "stages": []
+  "stages": [
+    {
+      "name": {
+        "zh": "8进4"
+      },
+      "rules": {
+        "numGames": 5,
+        "mode": "conquest",
+        "submitTeams": {
+          "num": 3
+        }
+      },
+      "parts": [
+        {
+          "name": {},
+          "date": "2024-10-28",
+          "matchIds": [
+            "a8923fd008b1eb0c01"
+          ]
+        }
+      ]
+    }
+  ]
 }
