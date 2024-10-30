@@ -1,0 +1,22 @@
+{
+  "id": "97b22419e2de7a9f04",
+  "tournamentId": "97b22419e2de7a9f",
+  "stageIndex": 0,
+  "partIndex": 1,
+  "matchIndex": 1,
+  "gameVersion": "5.1",
+  "playerA": {
+    "playerId": "b246e108217a527b",
+    "nickname": "安"
+  },
+  "playerB": {
+    "playerId": "6d4a0c7591d47f8d",
+    "nickname": "吃掉一只萌酱"
+  },
+  "gameIds": [
+    "97b22419e2de7a9f0401",
+    "97b22419e2de7a9f0402",
+    "97b22419e2de7a9f0403"
+  ],
+  "video": "https://www.bilibili.com/video/BV14BSqYjEN8"
+}

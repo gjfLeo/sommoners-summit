@@ -1,0 +1,23 @@
+{
+  "id": "a8923fd008b1eb0c03",
+  "tournamentId": "a8923fd008b1eb0c",
+  "stageIndex": 0,
+  "partIndex": 1,
+  "matchIndex": 0,
+  "gameVersion": "5.1",
+  "playerA": {
+    "playerId": "0186262170d4b992",
+    "nickname": "木语"
+  },
+  "playerB": {
+    "playerId": "847a54013a0da89b",
+    "nickname": "东家种树书"
+  },
+  "gameIds": [
+    "a8923fd008b1eb0c0301",
+    "a8923fd008b1eb0c0302",
+    "a8923fd008b1eb0c0303",
+    "a8923fd008b1eb0c0304"
+  ],
+  "video": "https://www.bilibili.com/video/BV1TBSqYjEPQ"
+}
