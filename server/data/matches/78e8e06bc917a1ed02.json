@@ -4,7 +4,7 @@
   "stageIndex": 0,
   "partIndex": 0,
   "matchIndex": 1,
-  "gameVersion": "5.0",
+  "gameVersion": "5.1",
   "playerA": {
     "playerId": "2197cbc9bf71de9a",
     "nickname": "风曾经为翼"
@@ -23,5 +23,6 @@
   "gameIds": [
     "78e8e06bc917a1ed0201",
     "78e8e06bc917a1ed0202"
-  ]
+  ],
+  "video": "https://www.bilibili.com/video/BV1Jg1GY9EsF"
 }
