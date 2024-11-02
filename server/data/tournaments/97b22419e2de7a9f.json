@@ -43,6 +43,31 @@
           ]
         }
       ]
+    },
+    {
+      "name": {
+        "zh": "半决赛"
+      },
+      "rules": {
+        "numGames": 5,
+        "mode": "conquest",
+        "submitTeams": {
+          "num": 3,
+          "submitDecks": {
+            "maxNumInTotal": 9
+          }
+        }
+      },
+      "parts": [
+        {
+          "name": {},
+          "date": "2024-11-01",
+          "matchIds": [
+            "97b22419e2de7a9f05",
+            "97b22419e2de7a9f06"
+          ]
+        }
+      ]
     }
   ]
 }
