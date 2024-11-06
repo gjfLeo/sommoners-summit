@@ -47,6 +47,7 @@ const columns: DataTableColumn<Player>[] = [
     key: "uniqueName",
     title: t("main.player.mainNickname"),
     width: "18rem",
+    sorter: "default",
   },
   {
     key: "aliases",
