@@ -4,7 +4,7 @@
   "stageIndex": 0,
   "partIndex": 0,
   "matchIndex": 0,
-  "gameVersion": "5.0",
+  "gameVersion": "5.1",
   "playerA": {
     "playerId": "0d42d3925b5fa62f",
     "nickname": "枨枘"
@@ -24,5 +24,6 @@
     "78e8e06bc917a1ed0101",
     "78e8e06bc917a1ed0102",
     "78e8e06bc917a1ed0103"
-  ]
+  ],
+  "video": "https://www.bilibili.com/video/BV1Jg1GY9EsF"
 }

@@ -6,5 +6,83 @@
   "gameVersion": "5.1",
   "region": "CN",
   "type": "积分赛",
-  "stages": []
+  "stages": [
+    {
+      "name": {
+        "zh": "8进4"
+      },
+      "rules": {
+        "numGames": 5,
+        "mode": "conquest",
+        "submitTeams": {
+          "num": 3
+        }
+      },
+      "parts": [
+        {
+          "name": {
+            "zh": "DAY1"
+          },
+          "date": "2024-10-28",
+          "matchIds": [
+            "a8923fd008b1eb0c01",
+            "a8923fd008b1eb0c02"
+          ]
+        },
+        {
+          "name": {
+            "zh": "DAY2"
+          },
+          "date": "2024-10-29",
+          "matchIds": [
+            "a8923fd008b1eb0c03",
+            "a8923fd008b1eb0c04"
+          ]
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh": "半决赛"
+      },
+      "rules": {
+        "numGames": 5,
+        "mode": "conquest",
+        "submitTeams": {
+          "num": 3
+        }
+      },
+      "parts": [
+        {
+          "name": {},
+          "date": "2024-10-30",
+          "matchIds": [
+            "a8923fd008b1eb0c05",
+            "a8923fd008b1eb0c06"
+          ]
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh": "决赛"
+      },
+      "rules": {
+        "numGames": 3,
+        "mode": "conquest",
+        "submitTeams": {
+          "num": 2
+        }
+      },
+      "parts": [
+        {
+          "name": {},
+          "date": "2024-10-31",
+          "matchIds": [
+            "a8923fd008b1eb0c07"
+          ]
+        }
+      ]
+    }
+  ]
 }

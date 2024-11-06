@@ -1,0 +1,24 @@
+{
+  "id": "a8923fd008b1eb0c01",
+  "tournamentId": "a8923fd008b1eb0c",
+  "stageIndex": 0,
+  "partIndex": 0,
+  "matchIndex": 0,
+  "gameVersion": "5.1",
+  "playerA": {
+    "playerId": "ac9aff8927acdfb8",
+    "nickname": "Leum雨"
+  },
+  "playerB": {
+    "playerId": "f4368b8ee00a6d1a",
+    "nickname": "栗子尖"
+  },
+  "gameIds": [
+    "a8923fd008b1eb0c0101",
+    "a8923fd008b1eb0c0102",
+    "a8923fd008b1eb0c0103",
+    "a8923fd008b1eb0c0104",
+    "a8923fd008b1eb0c0105"
+  ],
+  "video": "https://www.bilibili.com/video/BV1pySxYkE8X"
+}
