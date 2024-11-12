@@ -1,0 +1,38 @@
+{
+  "id": "25bf06bcd81b35c2",
+  "name": {
+    "zh": "共鸣杯"
+  },
+  "gameVersion": "5.1",
+  "region": "CN",
+  "type": "积分赛",
+  "stages": [
+    {
+      "name": {
+        "zh": "16进8"
+      },
+      "rules": {
+        "numGames": 3,
+        "mode": "conquest",
+        "submitTeams": {
+          "num": 3,
+          "banTeams": {
+            "num": 1
+          }
+        }
+      },
+      "parts": [
+        {
+          "name": {},
+          "date": "2024-11-11",
+          "matchIds": [
+            "25bf06bcd81b35c201",
+            "25bf06bcd81b35c202",
+            "25bf06bcd81b35c203",
+            "25bf06bcd81b35c204"
+          ]
+        }
+      ]
+    }
+  ]
+}
