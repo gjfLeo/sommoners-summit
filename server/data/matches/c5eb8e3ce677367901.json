@@ -1,0 +1,31 @@
+{
+  "id": "c5eb8e3ce677367901",
+  "tournamentId": "c5eb8e3ce6773679",
+  "stageIndex": 0,
+  "partIndex": 0,
+  "matchIndex": 0,
+  "gameVersion": "5.1",
+  "playerA": {
+    "playerId": "2724741f700dd2ce",
+    "nickname": "mikasa"
+  },
+  "playerB": {
+    "playerId": "82f6bcf4bbc370a6",
+    "nickname": "Leaf"
+  },
+  "bans": [
+    {
+      "banType": "team",
+      "playerATeamId": "1411-1510-2203",
+      "playerBTeamId": "1411-1510-2102"
+    }
+  ],
+  "gameIds": [
+    "c5eb8e3ce67736790101",
+    "c5eb8e3ce67736790102",
+    "c5eb8e3ce67736790103",
+    "c5eb8e3ce67736790104",
+    "c5eb8e3ce67736790105"
+  ],
+  "video": "https://www.bilibili.com/video/BV1PwUgYAEs6"
+}

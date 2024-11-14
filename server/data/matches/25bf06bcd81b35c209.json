@@ -1,0 +1,30 @@
+{
+  "id": "25bf06bcd81b35c209",
+  "tournamentId": "25bf06bcd81b35c2",
+  "stageIndex": 1,
+  "partIndex": 0,
+  "matchIndex": 0,
+  "gameVersion": "5.1",
+  "playerA": {
+    "playerId": "ad5d4df8069c07db",
+    "nickname": "湘江北去"
+  },
+  "playerB": {
+    "playerId": "9daa19fd0e21f2da",
+    "nickname": "夜椰耶叶子w"
+  },
+  "bans": [
+    {
+      "banType": "team",
+      "playerATeamId": "1107-1209-1504",
+      "playerBTeamId": "1303-2203-2602"
+    }
+  ],
+  "gameIds": [
+    "25bf06bcd81b35c20901",
+    "25bf06bcd81b35c20902",
+    "25bf06bcd81b35c20903",
+    "25bf06bcd81b35c20904"
+  ],
+  "video": "https://www.bilibili.com/video/BV1zZUGYaEg4"
+}
