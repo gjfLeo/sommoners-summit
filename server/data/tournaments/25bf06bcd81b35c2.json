@@ -64,11 +64,23 @@
       },
       "parts": [
         {
-          "name": {},
+          "name": {
+            "zh": "DAY1"
+          },
           "date": "2024-11-13",
           "matchIds": [
             "25bf06bcd81b35c209",
             "25bf06bcd81b35c210"
+          ]
+        },
+        {
+          "name": {
+            "zh": "DAY2"
+          },
+          "date": "2024-11-14",
+          "matchIds": [
+            "25bf06bcd81b35c211",
+            "25bf06bcd81b35c212"
           ]
         }
       ]

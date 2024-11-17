@@ -1,0 +1,33 @@
+{
+  "id": "c5eb8e3ce677367907",
+  "tournamentId": "c5eb8e3ce6773679",
+  "stageIndex": 2,
+  "partIndex": 0,
+  "matchIndex": 0,
+  "gameVersion": "5.1",
+  "isFinal": true,
+  "playerA": {
+    "playerId": "2724741f700dd2ce",
+    "nickname": "mikasa"
+  },
+  "playerB": {
+    "playerId": "22f2e64674077cf6",
+    "nickname": "三七二十七"
+  },
+  "bans": [
+    {
+      "banType": "team",
+      "playerATeamId": "1411-1510-2203",
+      "playerBTeamId": "1311-1404-2304"
+    }
+  ],
+  "gameIds": [
+    "c5eb8e3ce67736790701",
+    "c5eb8e3ce67736790702",
+    "c5eb8e3ce67736790703",
+    "c5eb8e3ce67736790704",
+    "c5eb8e3ce67736790705",
+    "c5eb8e3ce67736790706"
+  ],
+  "video": "https://www.bilibili.com/video/BV1XRUiYQEcj"
+}
