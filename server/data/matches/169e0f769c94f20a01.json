@@ -1,0 +1,34 @@
+{
+  "id": "169e0f769c94f20a01",
+  "tournamentId": "169e0f769c94f20a",
+  "stageIndex": 0,
+  "partIndex": 0,
+  "matchIndex": 0,
+  "gameVersion": "5.1",
+  "playerA": {
+    "playerId": "1e6f7264aa7dc96c",
+    "nickname": "夜十"
+  },
+  "playerB": {
+    "playerId": "5f9463c5bb109fa9",
+    "nickname": "喜欢猫又"
+  },
+  "bans": [
+    {
+      "banType": "character",
+      "playerACardId": "1209",
+      "playerBCardId": "1411"
+    },
+    {
+      "banType": "team",
+      "playerATeamId": "1303-2203-2602",
+      "playerBTeamId": "1303-2203-2602"
+    }
+  ],
+  "gameIds": [
+    "169e0f769c94f20a0101",
+    "169e0f769c94f20a0102",
+    "169e0f769c94f20a0103"
+  ],
+  "video": "https://www.bilibili.com/video/BV1TxSgY6ECJ"
+}

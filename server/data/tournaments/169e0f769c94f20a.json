@@ -1,0 +1,40 @@
+{
+  "id": "169e0f769c94f20a",
+  "name": {
+    "zh": "好游快爆杯"
+  },
+  "gameVersion": "5.1",
+  "region": "CN",
+  "type": "积分赛",
+  "stages": [
+    {
+      "name": {
+        "zh": "8进4"
+      },
+      "rules": {
+        "numGames": 3,
+        "mode": "conquest",
+        "banCharacters": {
+          "num": 1
+        },
+        "submitTeams": {
+          "num": 3,
+          "numCharactersRequired": 7,
+          "banTeams": {
+            "num": 1
+          }
+        }
+      },
+      "parts": [
+        {
+          "name": {},
+          "date": "2024-11-14",
+          "matchIds": [
+            "169e0f769c94f20a01",
+            "169e0f769c94f20a02"
+          ]
+        }
+      ]
+    }
+  ]
+}
