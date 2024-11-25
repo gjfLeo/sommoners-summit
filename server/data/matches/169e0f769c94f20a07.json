@@ -1,0 +1,36 @@
+{
+  "id": "169e0f769c94f20a07",
+  "tournamentId": "169e0f769c94f20a",
+  "stageIndex": 2,
+  "partIndex": 0,
+  "matchIndex": 0,
+  "gameVersion": "5.1",
+  "isFinal": true,
+  "playerA": {
+    "playerId": "1a6d5e7a30e881c2",
+    "nickname": "张伯伦的迷妹"
+  },
+  "playerB": {
+    "playerId": "66bd8d10b3e04402",
+    "nickname": "忘归草"
+  },
+  "bans": [
+    {
+      "banType": "character",
+      "playerACardId": "1310",
+      "playerBCardId": "2304"
+    },
+    {
+      "banType": "team",
+      "playerATeamId": "1411-1510-2203",
+      "playerBTeamId": "1411-1510-2203"
+    }
+  ],
+  "gameIds": [
+    "169e0f769c94f20a0701",
+    "169e0f769c94f20a0702",
+    "169e0f769c94f20a0703",
+    "169e0f769c94f20a0704"
+  ],
+  "video": "https://www.bilibili.com/video/BV13nzAYeE6g"
+}
