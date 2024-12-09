@@ -155,6 +155,19 @@
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Freminet_Character_Card.png",
     "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Freminet_TCG_Avatar_Icon.png"
   },
+  "1113": {
+    "id": "1113",
+    "name": {
+      "zh": "罗莎莉亚",
+      "en": "Rosaria"
+    },
+    "shareId": 432,
+    "type": "character",
+    "gameVersion": "5.2",
+    "element": "cryo",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Rosaria_Character_Card.png",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Rosaria_TCG_Avatar_Icon.png"
+  },
   "1201": {
     "id": "1201",
     "name": {
@@ -297,6 +310,19 @@
     "element": "hydro",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Furina_Character_Card.png",
     "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Furina_TCG_Avatar_Icon.png"
+  },
+  "1213": {
+    "id": "1213",
+    "name": {
+      "zh": "希格雯",
+      "en": "Sigewinne"
+    },
+    "shareId": 433,
+    "type": "character",
+    "gameVersion": "5.2",
+    "element": "hydro",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Sigewinne_Character_Card.png",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Sigewinne_TCG_Avatar_Icon.png"
   },
   "1301": {
     "id": "1301",
@@ -1272,6 +1298,19 @@
     "element": "geo",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Azhdaha_Character_Card.png",
     "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Azhdaha_TCG_Avatar_Icon.png"
+  },
+  "2603": {
+    "id": "2603",
+    "name": {
+      "zh": "黄金王兽",
+      "en": "Golden Wolflord"
+    },
+    "shareId": 434,
+    "type": "character",
+    "gameVersion": "5.2",
+    "element": "geo",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Golden_Wolflord_Character_Card.png",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Golden_Wolflord_TCG_Avatar_Icon.png"
   },
   "2701": {
     "id": "2701",

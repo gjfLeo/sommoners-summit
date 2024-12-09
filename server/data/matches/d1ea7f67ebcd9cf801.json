@@ -1,0 +1,22 @@
+{
+  "id": "d1ea7f67ebcd9cf801",
+  "tournamentId": "d1ea7f67ebcd9cf8",
+  "stageIndex": 0,
+  "partIndex": 0,
+  "matchIndex": 0,
+  "gameVersion": "5.2",
+  "playerA": {
+    "playerId": "9a0149ab002a3b3a",
+    "nickname": "今天不想吃苹果"
+  },
+  "playerB": {
+    "playerId": "362ee985e886ca3b",
+    "nickname": "荧"
+  },
+  "gameIds": [
+    "d1ea7f67ebcd9cf80101",
+    "d1ea7f67ebcd9cf80102",
+    "d1ea7f67ebcd9cf80103"
+  ],
+  "video": "https://www.bilibili.com/video/BV1GwqWYnEPF"
+}

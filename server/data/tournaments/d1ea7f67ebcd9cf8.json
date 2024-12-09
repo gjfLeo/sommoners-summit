@@ -1,0 +1,33 @@
+{
+  "id": "d1ea7f67ebcd9cf8",
+  "name": {
+    "zh": "火星杯"
+  },
+  "gameVersion": "5.2",
+  "region": "CN",
+  "type": "积分赛",
+  "stages": [
+    {
+      "name": {
+        "zh": "8进4"
+      },
+      "rules": {
+        "numGames": 5,
+        "mode": "conquest",
+        "submitTeams": {
+          "num": 3
+        }
+      },
+      "parts": [
+        {
+          "name": {},
+          "date": "2024-12-08",
+          "matchIds": [
+            "d1ea7f67ebcd9cf801",
+            "d1ea7f67ebcd9cf802"
+          ]
+        }
+      ]
+    }
+  ]
+}

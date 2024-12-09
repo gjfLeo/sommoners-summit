@@ -1,0 +1,22 @@
+{
+  "id": "d1ea7f67ebcd9cf802",
+  "tournamentId": "d1ea7f67ebcd9cf8",
+  "stageIndex": 0,
+  "partIndex": 0,
+  "matchIndex": 1,
+  "gameVersion": "5.2",
+  "playerA": {
+    "playerId": "ff06dcb835fa2d33",
+    "nickname": "龙宫蕾娜"
+  },
+  "playerB": {
+    "playerId": "c6eb959876bd5c91",
+    "nickname": "梦里啥都有"
+  },
+  "gameIds": [
+    "d1ea7f67ebcd9cf80201",
+    "d1ea7f67ebcd9cf80202",
+    "d1ea7f67ebcd9cf80203"
+  ],
+  "video": "https://www.bilibili.com/video/BV1GwqWYnEtv"
+}

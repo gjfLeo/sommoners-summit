@@ -143,6 +143,18 @@
     "actionType": "equipment",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Moment_of_Waking_and_Resolve_Equipment_Card.png"
   },
+  "211131": {
+    "id": "211131",
+    "name": {
+      "zh": "代行裁判",
+      "en": "Divine Retribution"
+    },
+    "shareId": 435,
+    "type": "action",
+    "gameVersion": "5.2",
+    "actionType": "equipment",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Divine_Retribution_Equipment_Card.png"
+  },
   "212011": {
     "id": "212011",
     "name": {
@@ -274,6 +286,18 @@
     "gameVersion": "4.7",
     "actionType": "equipment",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/89/Hear_Me_—_Let_Us_Raise_the_Chalice_of_Love!_Equipment_Card.png"
+  },
+  "212131": {
+    "id": "212131",
+    "name": {
+      "zh": "应当有适当的休憩",
+      "en": "Requires Appropriate Rest"
+    },
+    "shareId": 436,
+    "type": "action",
+    "gameVersion": "5.2",
+    "actionType": "equipment",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Requires_Appropriate_Rest_Equipment_Card.png"
   },
   "213011": {
     "id": "213011",
@@ -1175,6 +1199,18 @@
     "actionType": "event",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c6/Lunar_Cycles_Unending_Event_Card.png"
   },
+  "226031": {
+    "id": "226031",
+    "name": {
+      "zh": "异兽侵蚀",
+      "en": "Beastly Corrosion"
+    },
+    "shareId": 437,
+    "type": "action",
+    "gameVersion": "5.2",
+    "actionType": "equipment",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Beastly_Corrosion_Equipment_Card.png"
+  },
   "227011": {
     "id": "227011",
     "name": {
@@ -1318,6 +1354,18 @@
     "gameVersion": "4.7",
     "actionType": "equipment",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Cashflow_Supervision_Equipment_Card.png"
+  },
+  "311110": {
+    "id": "311110",
+    "name": {
+      "zh": "纯水流华",
+      "en": "Flowing Purity"
+    },
+    "shareId": 438,
+    "type": "action",
+    "gameVersion": "5.2",
+    "actionType": "equipment",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Flowing_Purity_Equipment_Card.png"
   },
   "311201": {
     "id": "311201",
@@ -2075,6 +2123,18 @@
     "actionType": "equipment",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Conductor%27s_Top_Hat_Equipment_Card.png"
   },
+  "312031": {
+    "id": "312031",
+    "name": {
+      "zh": "少女易逝的芳颜",
+      "en": "Maiden's Fading Beauty"
+    },
+    "shareId": 439,
+    "type": "action",
+    "gameVersion": "5.2",
+    "actionType": "equipment",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Maiden%27s_Fading_Beauty_Equipment_Card.png"
+  },
   "312101": {
     "id": "312101",
     "name": {
@@ -2290,6 +2350,18 @@
     "gameVersion": "5.1",
     "actionType": "equipment",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5a/Tepetlisaurus_Equipment_Card.png"
+  },
+  "313005": {
+    "id": "313005",
+    "name": {
+      "zh": "暝视龙",
+      "en": "Iktomisaurus"
+    },
+    "shareId": 440,
+    "type": "action",
+    "gameVersion": "5.2",
+    "actionType": "equipment",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Iktomisaurus_Equipment_Card.png"
   },
   "321001": {
     "id": "321001",
@@ -2566,6 +2638,18 @@
     "gameVersion": "5.1",
     "actionType": "support",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Stage_Tepetl_Support_Card.png"
+  },
+  "321024": {
+    "id": "321024",
+    "name": {
+      "zh": "「悬木人」",
+      "en": "\"Scions of the Canopy\""
+    },
+    "shareId": 441,
+    "type": "action",
+    "gameVersion": "5.2",
+    "actionType": "support",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/%22Scions_of_the_Canopy\"_Support_Card.png"
   },
   "322001": {
     "id": "322001",
@@ -3767,6 +3851,18 @@
     "actionType": "event",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Eremite_Teatime_Event_Card.png"
   },
+  "332041": {
+    "id": "332041",
+    "name": {
+      "zh": "强劲冲浪拍档！",
+      "en": "Ultimate Surfing Buddy!"
+    },
+    "shareId": 442,
+    "type": "action",
+    "gameVersion": "5.2",
+    "actionType": "event",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Ultimate_Surfing_Buddy!_Event_Card.png"
+  },
   "333001": {
     "id": "333001",
     "name": {
@@ -3958,5 +4054,17 @@
     "gameVersion": "5.1",
     "actionType": "event",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Saurus_Crackers_Event_Card.png"
+  },
+  "333017": {
+    "id": "333017",
+    "name": {
+      "zh": "宝石闪闪",
+      "en": "Glittering Gemstones"
+    },
+    "shareId": 443,
+    "type": "action",
+    "gameVersion": "5.2",
+    "actionType": "event",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Glittering_Gemstones_Event_Card.png"
   }
 }
