@@ -1,0 +1,36 @@
+{
+  "id": "93d31d1026d3d34d",
+  "name": {
+    "zh": "「逐辉星聚」月话杯"
+  },
+  "gameVersion": "5.2",
+  "region": "CN",
+  "type": "积分赛",
+  "stages": [
+    {
+      "name": {
+        "zh": "8进4"
+      },
+      "rules": {
+        "numGames": 5,
+        "mode": "conquest",
+        "submitTeams": {
+          "num": 3,
+          "submitDecks": {
+            "maxNumInTotal": 9
+          }
+        }
+      },
+      "parts": [
+        {
+          "name": {},
+          "date": "2024-12-09",
+          "matchIds": [
+            "93d31d1026d3d34d01",
+            "93d31d1026d3d34d02"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "d1ea7f67ebcd9cf803",
+  "tournamentId": "d1ea7f67ebcd9cf8",
+  "stageIndex": 0,
+  "partIndex": 1,
+  "matchIndex": 0,
+  "gameVersion": "5.2",
+  "playerA": {
+    "playerId": "d1426e65cb53e72d",
+    "nickname": "木瓜豆腐"
+  },
+  "playerB": {
+    "playerId": "e1ad3c98f0a6dd44",
+    "nickname": "那菈萤萤"
+  },
+  "gameIds": [
+    "d1ea7f67ebcd9cf80301",
+    "d1ea7f67ebcd9cf80302",
+    "d1ea7f67ebcd9cf80303"
+  ],
+  "video": "https://www.bilibili.com/video/BV1jyqTY2EtK"
+}
