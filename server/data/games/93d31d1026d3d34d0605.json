@@ -1,0 +1,25 @@
+{
+  "id": "93d31d1026d3d34d0605",
+  "matchId": "93d31d1026d3d34d06",
+  "gameVersion": "5.2",
+  "playerADeck": {
+    "characters": [
+      "2304",
+      "2402",
+      "2303"
+    ],
+    "teamId": "2303-2304-2402",
+    "deckCode": "FWDxyx4NEQDR0WINFhEglJwZCUDA5J0PCWHRooIRGBEhE54RGTHgTcQUDNFAacYWDJAA"
+  },
+  "playerBDeck": {
+    "characters": [
+      "1411",
+      "2102",
+      "1510"
+    ],
+    "teamId": "1411-1510-2102",
+    "deckCode": "FUDBxBUMGWCBxmoMFpChyZsNGRCw0ZENE1AB9DAPFFGBaEgQGKERDYEQC9HwD8MWDJAA"
+  },
+  "winner": "B",
+  "starter": "A"
+}
