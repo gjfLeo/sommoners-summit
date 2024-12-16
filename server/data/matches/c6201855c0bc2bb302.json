@@ -1,0 +1,28 @@
+{
+  "id": "c6201855c0bc2bb302",
+  "tournamentId": "c6201855c0bc2bb3",
+  "stageIndex": 0,
+  "partIndex": 0,
+  "matchIndex": 1,
+  "gameVersion": "5.2",
+  "playerA": {
+    "playerId": "55e614914081824b",
+    "nickname": "路西法师"
+  },
+  "playerB": {
+    "playerId": "e24bf320649522c8",
+    "nickname": "吃喵MP4"
+  },
+  "bans": [
+    {
+      "banType": "team",
+      "playerATeamId": "1311-1404-2304",
+      "playerBTeamId": "2102-2103-2402"
+    }
+  ],
+  "gameIds": [
+    "c6201855c0bc2bb30201",
+    "c6201855c0bc2bb30202",
+    "c6201855c0bc2bb30203"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c6201855c0bc2bb304",
+  "tournamentId": "c6201855c0bc2bb3",
+  "stageIndex": 0,
+  "partIndex": 0,
+  "matchIndex": 3,
+  "gameVersion": "5.2",
+  "playerA": {
+    "playerId": "0042b8b51352bb09",
+    "nickname": "素魄"
+  },
+  "playerB": {
+    "playerId": "a67dea43d9ff5417",
+    "nickname": "超级大面包"
+  },
+  "bans": [
+    {
+      "banType": "team",
+      "playerATeamId": "1303-2203-2602",
+      "playerBTeamId": "1111-1201-1211"
+    }
+  ],
+  "gameIds": [
+    "c6201855c0bc2bb30401",
+    "c6201855c0bc2bb30402"
+  ]
+}
