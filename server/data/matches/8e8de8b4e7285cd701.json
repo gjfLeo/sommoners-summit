@@ -1,0 +1,29 @@
+{
+  "id": "8e8de8b4e7285cd701",
+  "tournamentId": "8e8de8b4e7285cd7",
+  "stageIndex": 0,
+  "partIndex": 0,
+  "matchIndex": 0,
+  "gameVersion": "5.2",
+  "playerA": {
+    "playerId": "d12ad78bbb87aabe",
+    "nickname": "玖哀的迷妹"
+  },
+  "playerB": {
+    "playerId": "9c6bb94e1d87ba4a",
+    "nickname": "瞬"
+  },
+  "bans": [
+    {
+      "banType": "team",
+      "playerATeamId": "2303-2304-2402",
+      "playerBTeamId": "1211-1307-2203"
+    }
+  ],
+  "gameIds": [
+    "8e8de8b4e7285cd70101",
+    "8e8de8b4e7285cd70102",
+    "8e8de8b4e7285cd70103"
+  ],
+  "video": "https://www.bilibili.com/video/BV1YeknYbEmn"
+}
