@@ -1,0 +1,30 @@
+{
+  "id": "235c123df20923fa02",
+  "tournamentId": "235c123df20923fa",
+  "stageIndex": 0,
+  "partIndex": 0,
+  "matchIndex": 1,
+  "gameVersion": "5.2",
+  "playerA": {
+    "playerId": "8db673f732abfac8",
+    "nickname": "木瓜星灵二号机"
+  },
+  "playerB": {
+    "playerId": "b60851c4c288c8bc",
+    "nickname": "Misterioso"
+  },
+  "bans": [
+    {
+      "banType": "team",
+      "playerATeamId": "1303-2203-2602",
+      "playerBTeamId": "1311-1404-2304"
+    }
+  ],
+  "gameIds": [
+    "235c123df20923fa0201",
+    "235c123df20923fa0202",
+    "235c123df20923fa0203",
+    "235c123df20923fa0204",
+    "235c123df20923fa0205"
+  ]
+}
