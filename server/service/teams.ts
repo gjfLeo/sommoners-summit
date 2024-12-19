@@ -34,14 +34,18 @@ export function getTeamStatsRecords(params: GetAllTeamStatsParams): Record<DeckT
     const teamId = game.playerADeck.teamId;
     const record = getRecord(teamId);
     record.games++;
+    if (game.starter === "A") {
+      record.gamesStarter++;
+    }
+    if (game.starter === "B") {
+      record.gamesFollower++;
+    }
     if (game.winner === "A") {
       record.gamesWin++;
       if (game.starter === "A") {
-        record.gamesStarter++;
         record.gamesStarterWin++;
       }
       if (game.starter === "B") {
-        record.gamesFollower++;
         record.gamesFollowerWin++;
       }
     }
