@@ -1,0 +1,31 @@
+{
+  "id": "235c123df20923fa05",
+  "tournamentId": "235c123df20923fa",
+  "stageIndex": 1,
+  "partIndex": 0,
+  "matchIndex": 0,
+  "gameVersion": "5.2",
+  "playerA": {
+    "playerId": "93013725a75e9c5d",
+    "nickname": "铃芽凛"
+  },
+  "playerB": {
+    "playerId": "e1f22e3c57a5845b",
+    "nickname": "RedY"
+  },
+  "bans": [
+    {
+      "banType": "team",
+      "playerATeamId": "1303-2203-2602",
+      "playerBTeamId": "1411-1510-2203"
+    }
+  ],
+  "gameIds": [
+    "235c123df20923fa0501",
+    "235c123df20923fa0502",
+    "235c123df20923fa0503",
+    "235c123df20923fa0504",
+    "235c123df20923fa0505"
+  ],
+  "video": "https://www.bilibili.com/video/BV1Chk6YAENm"
+}

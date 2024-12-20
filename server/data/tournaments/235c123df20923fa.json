@@ -44,6 +44,32 @@
           ]
         }
       ]
+    },
+    {
+      "name": {
+        "zh": "半决赛"
+      },
+      "rules": {
+        "numGames": 5,
+        "mode": "conquest",
+        "submitTeams": {
+          "num": 4,
+          "numCharactersRequired": 11,
+          "banTeams": {
+            "num": 1
+          }
+        }
+      },
+      "parts": [
+        {
+          "name": {},
+          "date": "2024-12-19",
+          "matchIds": [
+            "235c123df20923fa05",
+            "235c123df20923fa06"
+          ]
+        }
+      ]
     }
   ]
 }
