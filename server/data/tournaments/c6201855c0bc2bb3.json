@@ -109,6 +109,30 @@
           ]
         }
       ]
+    },
+    {
+      "name": {
+        "zh": "决赛"
+      },
+      "rules": {
+        "numGames": 7,
+        "mode": "conquest",
+        "submitTeams": {
+          "num": 5,
+          "banTeams": {
+            "num": 1
+          }
+        }
+      },
+      "parts": [
+        {
+          "name": {},
+          "date": "2024-12-21",
+          "matchIds": [
+            "c6201855c0bc2bb315"
+          ]
+        }
+      ]
     }
   ]
 }
