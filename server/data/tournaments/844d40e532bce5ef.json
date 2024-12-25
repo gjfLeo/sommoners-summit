@@ -1,0 +1,112 @@
+{
+  "id": "844d40e532bce5ef",
+  "name": {
+    "zh": "好游快爆杯"
+  },
+  "gameVersion": "5.2",
+  "region": "CN",
+  "type": "积分赛",
+  "stages": [
+    {
+      "name": {
+        "zh": "8进4"
+      },
+      "rules": {
+        "numGames": 3,
+        "mode": "conquest",
+        "banCharacters": {
+          "num": 1
+        },
+        "submitTeams": {
+          "num": 3,
+          "numCharactersRequired": 7,
+          "banTeams": {
+            "num": 1
+          }
+        }
+      },
+      "parts": [
+        {
+          "name": {
+            "zh": "DAY1"
+          },
+          "date": "2024-12-19",
+          "matchIds": [
+            "844d40e532bce5ef01",
+            "844d40e532bce5ef02"
+          ]
+        },
+        {
+          "name": {
+            "zh": "DAY2"
+          },
+          "date": "2024-12-20",
+          "matchIds": [
+            "844d40e532bce5ef03",
+            "844d40e532bce5ef04"
+          ]
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh": "半决赛"
+      },
+      "rules": {
+        "numGames": 3,
+        "mode": "conquest",
+        "banCharacters": {
+          "num": 1
+        },
+        "submitTeams": {
+          "num": 3,
+          "numCharactersRequired": 7,
+          "banTeams": {
+            "num": 1
+          }
+        }
+      },
+      "parts": [
+        {
+          "name": {},
+          "date": "2024-12-21",
+          "matchIds": [
+            "844d40e532bce5ef05",
+            "844d40e532bce5ef06"
+          ]
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh": "决赛"
+      },
+      "rules": {
+        "numGames": 5,
+        "mode": "conquest",
+        "banCharacters": {
+          "num": 1
+        },
+        "submitTeams": {
+          "num": 4,
+          "numCharactersRequired": 9,
+          "banTeams": {
+            "num": 1
+          }
+        }
+      },
+      "parts": [
+        {
+          "name": {},
+          "date": "2024-12-22",
+          "matchIds": [
+            "844d40e532bce5ef07",
+            "844d40e532bce5ef08",
+            "844d40e532bce5ef09",
+            "844d40e532bce5ef10"
+          ]
+        }
+      ]
+    }
+  ]
+}

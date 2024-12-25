@@ -1,0 +1,34 @@
+{
+  "id": "844d40e532bce5ef03",
+  "tournamentId": "844d40e532bce5ef",
+  "stageIndex": 0,
+  "partIndex": 1,
+  "matchIndex": 0,
+  "gameVersion": "5.2",
+  "playerA": {
+    "playerId": "f8fce668072c00b0",
+    "nickname": "K-Ethyl"
+  },
+  "playerB": {
+    "playerId": "c616a5d6ab053b53",
+    "nickname": "SC"
+  },
+  "bans": [
+    {
+      "banType": "character",
+      "playerACardId": "1411",
+      "playerBCardId": "2304"
+    },
+    {
+      "banType": "team",
+      "playerATeamId": "1303-2203-2602",
+      "playerBTeamId": "1303-2203-2602"
+    }
+  ],
+  "gameIds": [
+    "844d40e532bce5ef0301",
+    "844d40e532bce5ef0302",
+    "844d40e532bce5ef0303"
+  ],
+  "video": "https://www.bilibili.com/video/BV1C3kXYeEPE"
+}
