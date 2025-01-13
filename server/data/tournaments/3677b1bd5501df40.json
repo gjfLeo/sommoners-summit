@@ -1,0 +1,32 @@
+{
+  "id": "3677b1bd5501df40",
+  "name": {
+    "zh": "枫达杯"
+  },
+  "gameVersion": "5.3",
+  "region": "CN",
+  "type": "地区大赛",
+  "stages": [
+    {
+      "name": {
+        "zh": "突围赛"
+      },
+      "rules": {
+        "numGames": 5,
+        "mode": "conquest",
+        "submitTeams": {
+          "num": 3
+        }
+      },
+      "parts": [
+        {
+          "name": {},
+          "date": "2025-01-11",
+          "matchIds": [
+            "3677b1bd5501df4001"
+          ]
+        }
+      ]
+    }
+  ]
+}

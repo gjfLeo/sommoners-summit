@@ -290,7 +290,7 @@
   "212131": {
     "id": "212131",
     "name": {
-      "zh": "应当有适当的休憩",
+      "zh": "应有适当的休憩",
       "en": "Requires Appropriate Rest"
     },
     "shareId": 436,
@@ -298,6 +298,18 @@
     "gameVersion": "5.2",
     "actionType": "equipment",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Requires_Appropriate_Rest_Equipment_Card.png"
+  },
+  "212141": {
+    "id": "212141",
+    "name": {
+      "zh": "夜域赐礼·波涛顶底",
+      "en": "Night Realm's Gift: Crests and Troughs"
+    },
+    "shareId": 446,
+    "type": "action",
+    "gameVersion": "5.3",
+    "actionType": "equipment",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Night_Realm%27s_Gift_Crests_and_Troughs_Equipment_Card.png"
   },
   "213011": {
     "id": "213011",
@@ -586,6 +598,18 @@
     "gameVersion": "4.6",
     "actionType": "equipment",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/To_Ward_Weakness_Equipment_Card.png"
+  },
+  "214121": {
+    "id": "214121",
+    "name": {
+      "zh": "破夜的明焰",
+      "en": "Dark-Shattering Flame"
+    },
+    "shareId": 447,
+    "type": "action",
+    "gameVersion": "5.3",
+    "actionType": "equipment",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Dark-Shattering_Flame_Equipment_Card.png"
   },
   "215011": {
     "id": "215011",
@@ -2135,6 +2159,18 @@
     "actionType": "equipment",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Maiden%27s_Fading_Beauty_Equipment_Card.png"
   },
+  "312032": {
+    "id": "312032",
+    "name": {
+      "zh": "魔战士的羽面",
+      "en": "Demon-Warrior's Feather Mask"
+    },
+    "shareId": 448,
+    "type": "action",
+    "gameVersion": "5.3",
+    "actionType": "equipment",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Demon-Warrior%27s_Feather_Mask_Equipment_Card.png"
+  },
   "312101": {
     "id": "312101",
     "name": {
@@ -2362,6 +2398,18 @@
     "gameVersion": "5.2",
     "actionType": "equipment",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Iktomisaurus_Equipment_Card.png"
+  },
+  "313006": {
+    "id": "313006",
+    "name": {
+      "zh": "绒翼龙",
+      "en": "Qucusaurus"
+    },
+    "shareId": 449,
+    "type": "action",
+    "gameVersion": "5.3",
+    "actionType": "equipment",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Qucusaurus_Equipment_Card.png"
   },
   "321001": {
     "id": "321001",
@@ -2650,6 +2698,18 @@
     "gameVersion": "5.2",
     "actionType": "support",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/%22Scions_of_the_Canopy\"_Support_Card.png"
+  },
+  "321025": {
+    "id": "321025",
+    "name": {
+      "zh": "「流泉之众」",
+      "en": "\"People of the Springs\""
+    },
+    "shareId": 450,
+    "type": "action",
+    "gameVersion": "5.3",
+    "actionType": "support",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/63/%22People_of_the_Springs\"_Support_Card.png"
   },
   "322001": {
     "id": "322001",
@@ -3190,6 +3250,18 @@
     "gameVersion": "5.0",
     "actionType": "event",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6b/Edict_of_Absolution_Event_Card.png"
+  },
+  "330010": {
+    "id": "330010",
+    "name": {
+      "zh": "归火圣夜巡礼",
+      "en": "Pilgrimage of the Return of the Sacred Flame"
+    },
+    "shareId": 451,
+    "type": "action",
+    "gameVersion": "5.3",
+    "actionType": "event",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Pilgrimage_of_the_Return_of_the_Sacred_Flame_Event_Card.png"
   },
   "331101": {
     "id": "331101",
@@ -3863,6 +3935,18 @@
     "actionType": "event",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Ultimate_Surfing_Buddy!_Event_Card.png"
   },
+  "332042": {
+    "id": "332042",
+    "name": {
+      "zh": "燃素充盈",
+      "en": "Abundant Phlogiston"
+    },
+    "shareId": 452,
+    "type": "action",
+    "gameVersion": "5.3",
+    "actionType": "event",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Abundant_Phlogiston_Event_Card.png"
+  },
   "333001": {
     "id": "333001",
     "name": {
@@ -4066,5 +4150,17 @@
     "gameVersion": "5.2",
     "actionType": "event",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Glittering_Gemstones_Event_Card.png"
+  },
+  "333018": {
+    "id": "333018",
+    "name": {
+      "zh": "咚咚嘭嘭",
+      "en": "Puff Pops"
+    },
+    "shareId": 453,
+    "type": "action",
+    "gameVersion": "5.3",
+    "actionType": "event",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/70/Puff_Pops_Event_Card.png"
   }
 }

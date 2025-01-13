@@ -324,6 +324,19 @@
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Sigewinne_Character_Card.png",
     "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Sigewinne_TCG_Avatar_Icon.png"
   },
+  "1214": {
+    "id": "1214",
+    "name": {
+      "zh": "玛拉妮",
+      "en": "Mualani"
+    },
+    "shareId": 444,
+    "type": "character",
+    "gameVersion": "5.3",
+    "element": "hydro",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Mualani_Character_Card.png",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Mualani_TCG_Avatar_Icon.png"
+  },
   "1301": {
     "id": "1301",
     "name": {
@@ -635,6 +648,19 @@
     "element": "electro",
     "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Kuki_Shinobu_Character_Card.png",
     "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Kuki_Shinobu_TCG_Avatar_Icon.png"
+  },
+  "1412": {
+    "id": "1412",
+    "name": {
+      "zh": "克洛琳德",
+      "en": "Clorinde"
+    },
+    "shareId": 445,
+    "type": "character",
+    "gameVersion": "5.3",
+    "element": "electro",
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Clorinde_Character_Card.png",
+    "avatar": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Clorinde_TCG_Avatar_Icon.png"
   },
   "1501": {
     "id": "1501",
