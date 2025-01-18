@@ -44,6 +44,47 @@
           ]
         }
       ]
+    },
+    {
+      "name": {
+        "zh": "淘汰赛"
+      },
+      "rules": {
+        "numGames": 5,
+        "mode": "conquest",
+        "submitTeams": {
+          "num": 4,
+          "banTeams": {
+            "num": 1
+          }
+        }
+      },
+      "parts": [
+        {
+          "name": {
+            "zh": "DAY1"
+          },
+          "date": "2025-01-17",
+          "matchIds": [
+            "3677b1bd5501df4009",
+            "3677b1bd5501df4010",
+            "3677b1bd5501df4011",
+            "3677b1bd5501df4012"
+          ]
+        },
+        {
+          "name": {
+            "zh": "DAY2"
+          },
+          "date": "2025-01-18",
+          "matchIds": [
+            "3677b1bd5501df4013",
+            "3677b1bd5501df4014",
+            "3677b1bd5501df4015",
+            "3677b1bd5501df4016"
+          ]
+        }
+      ]
     }
   ]
 }
