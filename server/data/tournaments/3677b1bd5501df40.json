@@ -83,6 +83,39 @@
             "3677b1bd5501df4015",
             "3677b1bd5501df4016"
           ]
+        },
+        {
+          "name": {
+            "zh": "DAY3"
+          },
+          "date": "2025-01-19",
+          "matchIds": [
+            "3677b1bd5501df4017"
+          ]
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh": "总决赛"
+      },
+      "rules": {
+        "numGames": 7,
+        "mode": "conquest",
+        "submitTeams": {
+          "num": 5,
+          "banTeams": {
+            "num": 1
+          }
+        }
+      },
+      "parts": [
+        {
+          "name": {},
+          "date": "2025-01-19",
+          "matchIds": [
+            "3677b1bd5501df4018"
+          ]
         }
       ]
     }
