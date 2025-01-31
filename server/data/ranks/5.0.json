@@ -1,0 +1,1205 @@
+{
+  "id": "5.0",
+  "ranks": [
+    {
+      "rank": 1,
+      "nickname": "执笔",
+      "uid": "283793022",
+      "score": 395
+    },
+    {
+      "rank": 2,
+      "nickname": "Dr.666",
+      "uid": "100666110",
+      "score": 360
+    },
+    {
+      "rank": 3,
+      "nickname": "音尘",
+      "uid": "108340639",
+      "score": 360
+    },
+    {
+      "rank": 4,
+      "nickname": "雪国Ink",
+      "uid": "137285608",
+      "score": 350
+    },
+    {
+      "rank": 5,
+      "nickname": "叶叄伍",
+      "uid": "101599415",
+      "score": 345
+    },
+    {
+      "rank": 6,
+      "nickname": "皮皮猪",
+      "uid": "282042757",
+      "score": 340
+    },
+    {
+      "rank": 7,
+      "nickname": "和大名",
+      "uid": "178722035",
+      "score": 335
+    },
+    {
+      "rank": 8,
+      "nickname": "卡密sama",
+      "uid": "102245847",
+      "score": 320
+    },
+    {
+      "rank": 9,
+      "nickname": "水瓶子丶",
+      "uid": "110876979",
+      "score": 320
+    },
+    {
+      "rank": 10,
+      "nickname": "叶雨kana",
+      "uid": "290938125",
+      "score": 320
+    },
+    {
+      "rank": 11,
+      "nickname": "漓",
+      "uid": "299989984",
+      "score": 315
+    },
+    {
+      "rank": 12,
+      "nickname": "灯火阑珊处",
+      "uid": "300004072",
+      "score": 315
+    },
+    {
+      "rank": 13,
+      "nickname": "不梨不七",
+      "uid": "236268488",
+      "score": 305
+    },
+    {
+      "rank": 14,
+      "nickname": "格尔曼.斯帕罗",
+      "uid": "102570197",
+      "score": 305
+    },
+    {
+      "rank": 15,
+      "nickname": "屹立大地之上",
+      "uid": "223019586",
+      "score": 300
+    },
+    {
+      "rank": 16,
+      "nickname": "云野空悠",
+      "uid": "100592344",
+      "score": 300
+    },
+    {
+      "rank": 17,
+      "nickname": "Suyl",
+      "uid": "100111287",
+      "score": 300
+    },
+    {
+      "rank": 18,
+      "nickname": "Lancia",
+      "uid": "236502894",
+      "score": 300
+    },
+    {
+      "rank": 19,
+      "nickname": "忘归草",
+      "uid": "293229925",
+      "score": 290
+    },
+    {
+      "rank": 20,
+      "nickname": "天命主教德丽莎",
+      "uid": "201251766",
+      "score": 290
+    },
+    {
+      "rank": 21,
+      "nickname": "千早爱音",
+      "uid": "311054590",
+      "score": 290
+    },
+    {
+      "rank": 22,
+      "nickname": "U",
+      "uid": "241844916",
+      "score": 290
+    },
+    {
+      "rank": 23,
+      "nickname": "未咲的小迷弟",
+      "uid": "292157528",
+      "score": 285
+    },
+    {
+      "rank": 24,
+      "nickname": "贝尔格里",
+      "uid": "115588478",
+      "score": 280
+    },
+    {
+      "rank": 25,
+      "nickname": "木瓜豆腐",
+      "uid": "279902128",
+      "score": 280
+    },
+    {
+      "rank": 26,
+      "nickname": "TBD",
+      "uid": "101949951",
+      "score": 280
+    },
+    {
+      "rank": 27,
+      "nickname": "点点点",
+      "uid": "132735462",
+      "score": 280
+    },
+    {
+      "rank": 28,
+      "nickname": "君蹈危",
+      "uid": "222159138",
+      "score": 280
+    },
+    {
+      "rank": 29,
+      "nickname": "明彰先生",
+      "uid": "100046015",
+      "score": 280
+    },
+    {
+      "rank": 30,
+      "nickname": "Aurora",
+      "uid": "280864189",
+      "score": 275
+    },
+    {
+      "rank": 31,
+      "nickname": "三七二十七",
+      "uid": "237589819",
+      "score": 270
+    },
+    {
+      "rank": 32,
+      "nickname": "打牌哥",
+      "uid": "252456824",
+      "score": 270
+    },
+    {
+      "rank": 33,
+      "nickname": "不浪浪浪",
+      "uid": "216774204",
+      "score": 270
+    },
+    {
+      "rank": 34,
+      "nickname": "莫论人非",
+      "uid": "256692114",
+      "score": 270
+    },
+    {
+      "rank": 35,
+      "nickname": "木秀",
+      "uid": "291481118",
+      "score": 270
+    },
+    {
+      "rank": 36,
+      "nickname": "沃人",
+      "uid": "253496408",
+      "score": 270
+    },
+    {
+      "rank": 37,
+      "nickname": "M",
+      "uid": "263624787",
+      "score": 270
+    },
+    {
+      "rank": 38,
+      "nickname": "一鱼双吃",
+      "uid": "133190969",
+      "score": 260
+    },
+    {
+      "rank": 39,
+      "nickname": "零落剑羽",
+      "uid": "187184245",
+      "score": 260
+    },
+    {
+      "rank": 40,
+      "nickname": "Tobby",
+      "uid": "176003273",
+      "score": 260
+    },
+    {
+      "rank": 41,
+      "nickname": "柚子喂的猫猫",
+      "uid": "306284902",
+      "score": 255
+    },
+    {
+      "rank": 42,
+      "nickname": "荧",
+      "uid": "233866855",
+      "score": 255
+    },
+    {
+      "rank": 43,
+      "nickname": "Sept",
+      "uid": "100277416",
+      "score": 250
+    },
+    {
+      "rank": 44,
+      "nickname": "木语",
+      "uid": "100765931",
+      "score": 250
+    },
+    {
+      "rank": 45,
+      "nickname": "zsx",
+      "uid": "210085336",
+      "score": 250
+    },
+    {
+      "rank": 46,
+      "nickname": "巫喵",
+      "uid": "193557251",
+      "score": 250
+    },
+    {
+      "rank": 47,
+      "nickname": "喵帕斯的小迷妹",
+      "uid": "193744594",
+      "score": 250
+    },
+    {
+      "rank": 48,
+      "nickname": "冷冷不知道哦",
+      "uid": "114224113",
+      "score": 250
+    },
+    {
+      "rank": 49,
+      "nickname": "子祺粨特",
+      "uid": "190003269",
+      "score": 250
+    },
+    {
+      "rank": 50,
+      "nickname": "给神献上祭品",
+      "uid": "106506177",
+      "score": 245
+    },
+    {
+      "rank": 51,
+      "nickname": "流萤夜色",
+      "uid": "137771197",
+      "score": 240
+    },
+    {
+      "rank": 52,
+      "nickname": "喵帕斯",
+      "uid": "100353171",
+      "score": 240
+    },
+    {
+      "rank": 53,
+      "nickname": "兰耶霜",
+      "uid": "238280041",
+      "score": 240
+    },
+    {
+      "rank": 54,
+      "nickname": "紫电霆霓刻喵喵",
+      "uid": "100742390",
+      "score": 240
+    },
+    {
+      "rank": 55,
+      "nickname": "晓夜blite",
+      "uid": "142732515",
+      "score": 240
+    },
+    {
+      "rank": 56,
+      "nickname": "鲸爷超酷小鲨鱼",
+      "uid": "311122723",
+      "score": 240
+    },
+    {
+      "rank": 57,
+      "nickname": "青陌",
+      "uid": "160306319",
+      "score": 235
+    },
+    {
+      "rank": 58,
+      "nickname": "草莓味果酱",
+      "uid": "100308073",
+      "score": 235
+    },
+    {
+      "rank": 59,
+      "nickname": "流星知愿",
+      "uid": "188608444",
+      "score": 235
+    },
+    {
+      "rank": 60,
+      "nickname": "筱熙的小迷妹",
+      "uid": "113800296",
+      "score": 230
+    },
+    {
+      "rank": 61,
+      "nickname": "汐酥",
+      "uid": "180001069",
+      "score": 230
+    },
+    {
+      "rank": 62,
+      "nickname": "爱笑",
+      "uid": "100114342",
+      "score": 230
+    },
+    {
+      "rank": 63,
+      "nickname": "L",
+      "uid": "237113848",
+      "score": 230
+    },
+    {
+      "rank": 64,
+      "nickname": "咕咕咕",
+      "uid": "187655305",
+      "score": 230
+    },
+    {
+      "rank": 65,
+      "nickname": "巴巴洛丝",
+      "uid": "280073122",
+      "score": 230
+    },
+    {
+      "rank": 66,
+      "nickname": "宇宙蓝色闪光",
+      "uid": "134716533",
+      "score": 230
+    },
+    {
+      "rank": 67,
+      "nickname": "子非",
+      "uid": "199037713",
+      "score": 230
+    },
+    {
+      "rank": 68,
+      "nickname": "相携烟雨路",
+      "uid": "220311261",
+      "score": 230
+    },
+    {
+      "rank": 69,
+      "nickname": "物语",
+      "uid": "111514337",
+      "score": 220
+    },
+    {
+      "rank": 70,
+      "nickname": "顶级鹅白",
+      "uid": "227946289",
+      "score": 220
+    },
+    {
+      "rank": 71,
+      "nickname": "小铭同学",
+      "uid": "100119783",
+      "score": 220
+    },
+    {
+      "rank": 72,
+      "nickname": "無夜",
+      "uid": "102680207",
+      "score": 220
+    },
+    {
+      "rank": 73,
+      "nickname": "帕尔特",
+      "uid": "211095996",
+      "score": 220
+    },
+    {
+      "rank": 74,
+      "nickname": "一叶知秋",
+      "uid": "255607802",
+      "score": 220
+    },
+    {
+      "rank": 75,
+      "nickname": "人生若只如初见",
+      "uid": "100001187",
+      "score": 220
+    },
+    {
+      "rank": 76,
+      "nickname": "喵帕巫",
+      "uid": "195435962",
+      "score": 220
+    },
+    {
+      "rank": 77,
+      "nickname": "吃掉一只萌酱",
+      "uid": "244577216",
+      "score": 220
+    },
+    {
+      "rank": 78,
+      "nickname": "猫九沐白",
+      "uid": "172813563",
+      "score": 215
+    },
+    {
+      "rank": 79,
+      "nickname": "那菈鼠鼠",
+      "uid": "310848424",
+      "score": 215
+    },
+    {
+      "rank": 80,
+      "nickname": "米诺",
+      "uid": "104457655",
+      "score": 210
+    },
+    {
+      "rank": 81,
+      "nickname": "沙依",
+      "uid": "129258811",
+      "score": 210
+    },
+    {
+      "rank": 82,
+      "nickname": "王小鹅",
+      "uid": "184681254",
+      "score": 210
+    },
+    {
+      "rank": 83,
+      "nickname": "MaRiA",
+      "uid": "173826478",
+      "score": 210
+    },
+    {
+      "rank": 84,
+      "nickname": "久悦椰羊",
+      "uid": "112353329",
+      "score": 210
+    },
+    {
+      "rank": 85,
+      "nickname": "旅行者",
+      "uid": "255488776",
+      "score": 210
+    },
+    {
+      "rank": 86,
+      "nickname": "安",
+      "uid": "265012888",
+      "score": 210
+    },
+    {
+      "rank": 87,
+      "nickname": "史珍香",
+      "uid": "166412477",
+      "score": 210
+    },
+    {
+      "rank": 88,
+      "nickname": "旅行者",
+      "uid": "283186468",
+      "score": 210
+    },
+    {
+      "rank": 89,
+      "nickname": "栗子尖",
+      "uid": "245558746",
+      "score": 210
+    },
+    {
+      "rank": 90,
+      "nickname": "科研大神三番手",
+      "uid": "190238157",
+      "score": 210
+    },
+    {
+      "rank": 91,
+      "nickname": "喜欢看番",
+      "uid": "180955067",
+      "score": 205
+    },
+    {
+      "rank": 92,
+      "nickname": "晚晴",
+      "uid": "177649364",
+      "score": 205
+    },
+    {
+      "rank": 93,
+      "nickname": "Motion.Earth",
+      "uid": "115566122",
+      "score": 205
+    },
+    {
+      "rank": 94,
+      "nickname": "常乐",
+      "uid": "101153540",
+      "score": 200
+    },
+    {
+      "rank": 95,
+      "nickname": "红颜～nano",
+      "uid": "102415455",
+      "score": 200
+    },
+    {
+      "rank": 96,
+      "nickname": "空门天",
+      "uid": "116801968",
+      "score": 200
+    },
+    {
+      "rank": 97,
+      "nickname": "倦梦还",
+      "uid": "283484820",
+      "score": 200
+    },
+    {
+      "rank": 98,
+      "nickname": "淡蓝色的瞳眸",
+      "uid": "236038803",
+      "score": 200
+    },
+    {
+      "rank": 99,
+      "nickname": "Leum雨",
+      "uid": "234879130",
+      "score": 200
+    },
+    {
+      "rank": 100,
+      "nickname": "maxliang",
+      "uid": "240920959",
+      "score": 200
+    },
+    {
+      "rank": 101,
+      "nickname": "要一起逃亡吗",
+      "uid": "236188969",
+      "score": 200
+    },
+    {
+      "rank": 102,
+      "nickname": "空妲妲大魔王",
+      "uid": "304059074",
+      "score": 200
+    },
+    {
+      "rank": 103,
+      "nickname": "吃喵MP4",
+      "uid": "213834253",
+      "score": 200
+    },
+    {
+      "rank": 104,
+      "nickname": "灵羽DI",
+      "uid": "280075463",
+      "score": 200
+    },
+    {
+      "rank": 105,
+      "nickname": "杂..",
+      "uid": "255380948",
+      "score": 200
+    },
+    {
+      "rank": 106,
+      "nickname": "书生慕戏子",
+      "uid": "260112490",
+      "score": 200
+    },
+    {
+      "rank": 107,
+      "nickname": "哈里路大旋风",
+      "uid": "284312112",
+      "score": 200
+    },
+    {
+      "rank": 108,
+      "nickname": "大风机关",
+      "uid": "258781780",
+      "score": 200
+    },
+    {
+      "rank": 109,
+      "nickname": "路西法师",
+      "uid": "253206214",
+      "score": 200
+    },
+    {
+      "rank": 110,
+      "nickname": "Tonbo",
+      "uid": "101791382",
+      "score": 195
+    },
+    {
+      "rank": 111,
+      "nickname": "殇璃冰泪梦蝶",
+      "uid": "100672095",
+      "score": 195
+    },
+    {
+      "rank": 112,
+      "nickname": "白飞飞",
+      "uid": "124640645",
+      "score": 195
+    },
+    {
+      "rank": 113,
+      "nickname": "浪火花",
+      "uid": "100172115",
+      "score": 190
+    },
+    {
+      "rank": 114,
+      "nickname": "税慕",
+      "uid": "154594311",
+      "score": 190
+    },
+    {
+      "rank": 115,
+      "nickname": "自古二楼",
+      "uid": "159253965",
+      "score": 190
+    },
+    {
+      "rank": 116,
+      "nickname": "绯空紫棘",
+      "uid": "108803442",
+      "score": 190
+    },
+    {
+      "rank": 117,
+      "nickname": "すずみやりん",
+      "uid": "101025258",
+      "score": 190
+    },
+    {
+      "rank": 118,
+      "nickname": "LL起翼夜鹰",
+      "uid": "257230693",
+      "score": 190
+    },
+    {
+      "rank": 119,
+      "nickname": "暇月",
+      "uid": "193703676",
+      "score": 190
+    },
+    {
+      "rank": 120,
+      "nickname": "大呆瓜",
+      "uid": "119799598",
+      "score": 190
+    },
+    {
+      "rank": 121,
+      "nickname": "终末",
+      "uid": "113033794",
+      "score": 190
+    },
+    {
+      "rank": 122,
+      "nickname": "一寸灰",
+      "uid": "226285382",
+      "score": 190
+    },
+    {
+      "rank": 123,
+      "nickname": "苪鹭燕",
+      "uid": "289143679",
+      "score": 190
+    },
+    {
+      "rank": 124,
+      "nickname": "煊烨",
+      "uid": "294882997",
+      "score": 190
+    },
+    {
+      "rank": 125,
+      "nickname": "唐傀",
+      "uid": "111839754",
+      "score": 190
+    },
+    {
+      "rank": 126,
+      "nickname": "鹿目圆香",
+      "uid": "100057901",
+      "score": 190
+    },
+    {
+      "rank": 127,
+      "nickname": "鱼鱼猫",
+      "uid": "113301005",
+      "score": 190
+    },
+    {
+      "rank": 128,
+      "nickname": "x9",
+      "uid": "129787279",
+      "score": 190
+    },
+    {
+      "rank": 129,
+      "nickname": "遗尘音序",
+      "uid": "100411440",
+      "score": 190
+    },
+    {
+      "rank": 130,
+      "nickname": "彼之",
+      "uid": "182591610",
+      "score": 190
+    },
+    {
+      "rank": 131,
+      "nickname": "Sweet嘉心糖",
+      "uid": "185521388",
+      "score": 190
+    },
+    {
+      "rank": 132,
+      "nickname": "落尽红樱君不见",
+      "uid": "114106660",
+      "score": 190
+    },
+    {
+      "rank": 133,
+      "nickname": "西北望",
+      "uid": "311575539",
+      "score": 190
+    },
+    {
+      "rank": 134,
+      "nickname": "瑄玥",
+      "uid": "281645305",
+      "score": 190
+    },
+    {
+      "rank": 135,
+      "nickname": "裴奢",
+      "uid": "290079174",
+      "score": 190
+    },
+    {
+      "rank": 136,
+      "nickname": "她真好看",
+      "uid": "217716376",
+      "score": 190
+    },
+    {
+      "rank": 137,
+      "nickname": "湫之谷",
+      "uid": "170948901",
+      "score": 190
+    },
+    {
+      "rank": 138,
+      "nickname": "提瓦特恶霸",
+      "uid": "100324935",
+      "score": 185
+    },
+    {
+      "rank": 139,
+      "nickname": "荧",
+      "uid": "101243688",
+      "score": 185
+    },
+    {
+      "rank": 140,
+      "nickname": "里塔",
+      "uid": "236182226",
+      "score": 180
+    },
+    {
+      "rank": 141,
+      "nickname": "雀雀",
+      "uid": "102822820",
+      "score": 180
+    },
+    {
+      "rank": 142,
+      "nickname": "未咲",
+      "uid": "305646952",
+      "score": 180
+    },
+    {
+      "rank": 143,
+      "nickname": "岚落尘",
+      "uid": "202062559",
+      "score": 180
+    },
+    {
+      "rank": 144,
+      "nickname": "胡胡伯",
+      "uid": "102679135",
+      "score": 180
+    },
+    {
+      "rank": 145,
+      "nickname": "遥襟弯",
+      "uid": "103450617",
+      "score": 180
+    },
+    {
+      "rank": 146,
+      "nickname": "信凛",
+      "uid": "191138315",
+      "score": 180
+    },
+    {
+      "rank": 147,
+      "nickname": "星月",
+      "uid": "188482302",
+      "score": 180
+    },
+    {
+      "rank": 148,
+      "nickname": "黑七圣：小橘",
+      "uid": "230028209",
+      "score": 180
+    },
+    {
+      "rank": 149,
+      "nickname": "阡陌",
+      "uid": "237462439",
+      "score": 180
+    },
+    {
+      "rank": 150,
+      "nickname": "晨俞空",
+      "uid": "171737640",
+      "score": 180
+    },
+    {
+      "rank": 151,
+      "nickname": "陈某某老师",
+      "uid": "159606513",
+      "score": 180
+    },
+    {
+      "rank": 152,
+      "nickname": "失心症",
+      "uid": "100004158",
+      "score": 180
+    },
+    {
+      "rank": 153,
+      "nickname": "伪圣女与月光姬",
+      "uid": "114666013",
+      "score": 180
+    },
+    {
+      "rank": 154,
+      "nickname": "温一碗多多",
+      "uid": "194209298",
+      "score": 180
+    },
+    {
+      "rank": 155,
+      "nickname": "tomorin",
+      "uid": "298485751",
+      "score": 180
+    },
+    {
+      "rank": 156,
+      "nickname": "筱梦",
+      "uid": "109692076",
+      "score": 180
+    },
+    {
+      "rank": 157,
+      "nickname": "胡桃花开青雀鸣",
+      "uid": "116347996",
+      "score": 180
+    },
+    {
+      "rank": 158,
+      "nickname": "白色小精灵",
+      "uid": "238261368",
+      "score": 180
+    },
+    {
+      "rank": 159,
+      "nickname": "知识，与你分享",
+      "uid": "270702682",
+      "score": 180
+    },
+    {
+      "rank": 160,
+      "nickname": "今天我不吃牛肉",
+      "uid": "168061629",
+      "score": 180
+    },
+    {
+      "rank": 161,
+      "nickname": "梦影疏横",
+      "uid": "215298342",
+      "score": 180
+    },
+    {
+      "rank": 162,
+      "nickname": "苣屋",
+      "uid": "286601166",
+      "score": 180
+    },
+    {
+      "rank": 163,
+      "nickname": "天与地之施",
+      "uid": "153336181",
+      "score": 180
+    },
+    {
+      "rank": 164,
+      "nickname": "凝黑",
+      "uid": "162258847",
+      "score": 180
+    },
+    {
+      "rank": 165,
+      "nickname": "风信子",
+      "uid": "207874864",
+      "score": 170
+    },
+    {
+      "rank": 166,
+      "nickname": "邋遢",
+      "uid": "134459999",
+      "score": 170
+    },
+    {
+      "rank": 167,
+      "nickname": "虚无空",
+      "uid": "109726502",
+      "score": 170
+    },
+    {
+      "rank": 168,
+      "nickname": "乌苏瓦城",
+      "uid": "212480643",
+      "score": 170
+    },
+    {
+      "rank": 169,
+      "nickname": "枫间璃",
+      "uid": "140272457",
+      "score": 170
+    },
+    {
+      "rank": 170,
+      "nickname": "神的微笑",
+      "uid": "140019816",
+      "score": 170
+    },
+    {
+      "rank": 171,
+      "nickname": "杰克Jack",
+      "uid": "195373857",
+      "score": 170
+    },
+    {
+      "rank": 172,
+      "nickname": "游梦的侠",
+      "uid": "109180652",
+      "score": 170
+    },
+    {
+      "rank": 173,
+      "nickname": "超级大面包",
+      "uid": "109180652",
+      "score": 170
+    },
+    {
+      "rank": 174,
+      "nickname": "蕭",
+      "uid": "207086471",
+      "score": 170
+    },
+    {
+      "rank": 175,
+      "nickname": "峨柳静苓",
+      "uid": "297471175",
+      "score": 170
+    },
+    {
+      "rank": 176,
+      "nickname": "绯云过野之烟霞",
+      "uid": "305762397",
+      "score": 170
+    },
+    {
+      "rank": 177,
+      "nickname": "孤寂",
+      "uid": "186075042",
+      "score": 170
+    },
+    {
+      "rank": 178,
+      "nickname": "北极星",
+      "uid": "110058252",
+      "score": 170
+    },
+    {
+      "rank": 179,
+      "nickname": "星辰",
+      "uid": "290928379",
+      "score": 170
+    },
+    {
+      "rank": 180,
+      "nickname": "纳西妲宝贝~",
+      "uid": "236742183",
+      "score": 170
+    },
+    {
+      "rank": 181,
+      "nickname": "鲶鱼精",
+      "uid": "100894408",
+      "score": 170
+    },
+    {
+      "rank": 182,
+      "nickname": "永恒di小N",
+      "uid": "255198852",
+      "score": 170
+    },
+    {
+      "rank": 183,
+      "nickname": "LUCA",
+      "uid": "287597567",
+      "score": 170
+    },
+    {
+      "rank": 184,
+      "nickname": "废猫级喵喵",
+      "uid": "101871460",
+      "score": 170
+    },
+    {
+      "rank": 185,
+      "nickname": "荧",
+      "uid": "100047621",
+      "score": 170
+    },
+    {
+      "rank": 186,
+      "nickname": "詹妮斯",
+      "uid": "106265338",
+      "score": 170
+    },
+    {
+      "rank": 187,
+      "nickname": "珊瑚海",
+      "uid": "198312913",
+      "score": 170
+    },
+    {
+      "rank": 188,
+      "nickname": "icybag",
+      "uid": "207237148",
+      "score": 170
+    },
+    {
+      "rank": 189,
+      "nickname": "祈鸢",
+      "uid": "269055733",
+      "score": 170
+    },
+    {
+      "rank": 190,
+      "nickname": "才痕",
+      "uid": "194043224",
+      "score": 170
+    },
+    {
+      "rank": 191,
+      "nickname": "萌新",
+      "uid": "310099471",
+      "score": 170
+    },
+    {
+      "rank": 192,
+      "nickname": "小白一只",
+      "uid": "249975672",
+      "score": 170
+    },
+    {
+      "rank": 193,
+      "nickname": "十一.",
+      "uid": "194920311",
+      "score": 170
+    },
+    {
+      "rank": 194,
+      "nickname": "奇数萨",
+      "uid": "292500261",
+      "score": 170
+    },
+    {
+      "rank": 195,
+      "nickname": "TianJam",
+      "uid": "192806669",
+      "score": 165
+    },
+    {
+      "rank": 196,
+      "nickname": "晨风",
+      "uid": "305628953",
+      "score": 160
+    },
+    {
+      "rank": 197,
+      "nickname": "太虚核爆剑仙",
+      "uid": "100260698",
+      "score": 160
+    },
+    {
+      "rank": 198,
+      "nickname": "万花通灵",
+      "uid": "302858961",
+      "score": 160
+    },
+    {
+      "rank": 199,
+      "nickname": "莉莲",
+      "uid": "199225921",
+      "score": 160
+    },
+    {
+      "rank": 200,
+      "nickname": "jkjkj",
+      "uid": "259395255",
+      "score": 160
+    }
+  ]
+}
