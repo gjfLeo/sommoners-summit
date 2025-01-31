@@ -14,7 +14,7 @@
       </div>
       <div un-grid="~ cols-4 gap-x-8 gap-y-2" class="mt">
         <div v-for="playerId in achievement.playerIds" :key="playerId" un-flex="~ items-center">
-          <span>{{ players.find((player) => player.id === playerId)?.uniqueName }}</span>
+          <span class="min-w-24">{{ players.find((player) => player.id === playerId)?.uniqueName }}</span>
           <CommonIconButton
             icon="i-mingcute:delete-2-line" danger class="ml"
             @click="removePlayer(achievement.id, playerId)"
