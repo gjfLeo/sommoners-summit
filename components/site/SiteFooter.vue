@@ -36,6 +36,7 @@
               <NuxtLinkLocale class="underline" to="https://space.bilibili.com/24336207" target="_blank"><NA>念冰</NA></NuxtLinkLocale>
               <NuxtLinkLocale class="underline" to="https://space.bilibili.com/8322668" target="_blank"><NA>自古二楼</NA></NuxtLinkLocale>
               <NuxtLinkLocale class="underline" to="https://2qb.bio.link/" target="_blank"><NA>TwoQuantumBits</NA></NuxtLinkLocale>
+              <NuxtLinkLocale class="underline" to="https://space.bilibili.com/299420735" target="_blank"><NA>George2003</NA></NuxtLinkLocale>
             </span>
           </NText>
           <NText :depth="3">{{ $t('site.footer.lastUpdate', [updateTime]) }}</NText>
