@@ -5,8 +5,9 @@ import { ZActionCardInfo, ZCardId, ZCharacterCardInfo, ZGameVersion, ZSeasonPhra
 
 const fandomFilenameOverrides: Record<number, string> = {
   212111: "Hear Me — Let Us Raise the Chalice of Love! Equipment Card.png",
-  321024: "Scions_of_the_Canopy Support Card.png",
+  321024: "Scions of the Canopy Support Card.png",
   321025: "People of the Springs Support Card.png",
+  321026: "Flower-Feather Clan.png",
 };
 
 function getFandomImageUrl(filename: string) {
